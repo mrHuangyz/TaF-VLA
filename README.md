@@ -12,4 +12,4 @@
 
 ## 🎯 Experiment results
 
-<video id="demo_video" src="demo_compressed.mp4" controls="controls" width="100%"></video>
+<video id="demo_video" src="demo.mp4" controls="controls" width="100%"></video>
