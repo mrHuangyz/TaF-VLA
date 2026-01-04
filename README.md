@@ -16,10 +16,10 @@
 <table>
   <tr>
     <td>
-      <img src="video/hardware.png" width="40%">
+      <img src="video/hardware.png" width="100%">
     </td>
     <td>
-      <img src="video/assembly.png" width="60%">
+      <img src="video/assembly.png" width="100%">
     </td>
   </tr>
 </table>
