@@ -106,13 +106,6 @@ The ablation study verifies that design of TaF-Adapter is essential for robust m
   <img src="video/ablation2.gif" width="400"/>
 </div>
 
----
-
-### 6️⃣ Language Influence
-**Description:**  
-The TaF-VLA enables the model to treat detailed prompts as actionable constraints, modulating force-sensitive interactions rather than following geometric trajectories alone, confirming a deeper alignment between language and physical behavior.
-
-<img src="video/language.gif" width="100%"/>
 
 
 
