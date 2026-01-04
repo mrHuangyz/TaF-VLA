@@ -13,10 +13,16 @@
 ## 📌 Hardware Design
 
 ### 🔧 Mechanical Structure & Assembly
-<div style="display:flex; gap:16px; overflow-x:auto;">
-  <img src="video/hardware.png" width="400"/>
-  <img src="video/assembly.pdf" width="400"/>
-</div>
+<table>
+  <tr>
+    <td>
+      <img src="video/hardware.png" width="80%">
+    </td>
+    <td>
+      <img src="video/assembly.png" width="80%">
+    </td>
+  </tr>
+</table>
 
 **Description:**  
 We have designed a device capable of rapidly acquiring large quantities of tactile-force aligned data pairs.(TaF-Device)
