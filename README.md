@@ -52,11 +52,16 @@ We introduce a force-aware manipulation dataset consisting of diverse objects an
 ### 1️⃣ TaF-VLA Highlight
 **Description:**  
 TaF-VLA demonstrates robust manipulation performance across objects with significantly different physical properties, including deformable and rigid objects.
-
-<div style="display:flex; gap:16px; overflow-x:auto;">
-  <img src="video/jelly.gif" width="400"/>
-  <img src="video/weight.gif" width="400"/>
-</div>
+<table>
+  <tr>
+    <td>
+      <img src="video/jelly.gif" width="50%">
+    </td>
+    <td>
+      <img src="video/weight.gif" width="50%">
+    </td>
+  </tr>
+</table>
 
 
 ---
@@ -100,12 +105,16 @@ TaF-Adapter aligns representations in a semantic latent space. This contrastive 
 ### 5️⃣ Ablation Study
 **Description:**  
 The ablation study verifies that design of TaF-Adapter is essential for robust manipulation performance.
-
-<div style="display:flex; gap:16px; overflow-x:auto;">
-  <img src="video/ablation1.gif" width="400"/>
-  <img src="video/ablation2.gif" width="400"/>
-</div>
-
+<table>
+  <tr>
+    <td>
+      <img src="video/ablation1.gif" width="50%">
+    </td>
+    <td>
+      <img src="video/ablation2.gif" width="50%">
+    </td>
+  </tr>
+</table>
 
 
 
