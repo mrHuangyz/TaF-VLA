@@ -55,10 +55,10 @@ TaF-VLA demonstrates robust manipulation performance across objects with signifi
 <table>
   <tr>
     <td>
-      <img src="video/jelly.gif" width="50%">
+      <img src="video/jelly.gif" width="100%">
     </td>
     <td>
-      <img src="video/weight.gif" width="50%">
+      <img src="video/weight.gif" width="100%">
     </td>
   </tr>
 </table>
@@ -108,10 +108,10 @@ The ablation study verifies that design of TaF-Adapter is essential for robust m
 <table>
   <tr>
     <td>
-      <img src="video/ablation1.gif" width="50%">
+      <img src="video/ablation1.gif" width="100%">
     </td>
     <td>
-      <img src="video/ablation2.gif" width="50%">
+      <img src="video/ablation2.gif" width="100%">
     </td>
   </tr>
 </table>
