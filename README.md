@@ -24,92 +24,90 @@ We have designed a device capable of rapidly acquiring large quantities of tacti
 <br/>
 
 ### 🎥 Hardware Demonstration
-<img src="video/hardware.gif" width="600"/>
-
 **Description:**  
 The video demonstrates the TaF-Device in operation.
+<img src="video/TaF-device.gif" width="100%"/>
+
+
 
 ---
 
 ## 📦 Force-aware Manipulation Dataset
-
-<img src="video/dataset.gif" width="600"/>
-
 **Description:**  
 We introduce a force-aware manipulation dataset consisting of diverse objects and interaction scenarios.
+
+<img src="video/dataset.gif" width="100%"/>
+
 
 ---
 
 ## 🎯 Experiment Results
 
 ### 1️⃣ TaF-VLA Highlight
+**Description:**  
+TaF-VLA demonstrates robust manipulation performance across objects with significantly different physical properties, including deformable and rigid objects.
+
 <div style="display:flex; gap:16px; overflow-x:auto;">
   <img src="video/jelly.gif" width="400"/>
   <img src="video/weight.gif" width="400"/>
 </div>
 
-**Description:**  
-TaF-VLA demonstrates robust manipulation performance across objects with significantly different physical properties, including deformable and rigid objects.
 
 ---
 
 ### 2️⃣ Comparison with Baselines
-
-<img src="video/weight_compares.gif" width="600"/>
-
-**Weight Object Comparison:**  
+**Baseline Comparison:**  
 Different models performance in task-"Tweezer Weight Pick".
 
+<img src="video/weight_compares.gif" width="100%"/>
+
+
 <br/>
-
-<img src="video/jelly_compares.gif" width="600"/>
-
-**Deformable Object Comparison:**  
 Different models performance in task-"Jelly Slicing".
+<img src="video/jelly_compares.gif" width="100%"/>
+
+
+
 
 <br/>
-
-<img src="video/tube_compares.gif" width="600"/>
-
-**Tubular Object Comparison:**  
 Different models performance in task-"Tube Insertion".
+<img src="video/tube_compares.gif" width="100%"/>
+
+
 
 ---
 
 ### 3️⃣ Plug-and-Play Capability
-
-<img src="video/plug_and_play.gif" width="600"/>
-
 **Description:**  
 The proposed TaF-Adaprter supports plug-and-play deployment across different mdoel(including Diffusion Policy and Act).
+<img src="video/plug_and_play.gif" width="100%"/>
 
 ---
 
 ### 4️⃣ Comparison with Force Prediction
-
-<img src="video/force_predict.gif" width="600"/>
-
 **Description:**  
 TaF-Adapter aligns representations in a semantic latent space. This contrastive alignment encourages the model to learn force-relevant features that are invariant to low-level sensor noise, resulting in significantly superior cross-sensor transferability.
+<img src="video/force_predict.gif" width="100%"/>
 
 ---
 
 ### 5️⃣ Ablation Study
+**Description:**  
+The ablation study verifies that design of TaF-Adapter is essential for robust manipulation performance.
+
 <div style="display:flex; gap:16px; overflow-x:auto;">
   <img src="video/ablation1.gif" width="400"/>
   <img src="video/ablation2.gif" width="400"/>
 </div>
 
-**Description:**  
-The ablation study verifies that design of TaF-Adapter is essential for robust manipulation performance.
-
 ---
 
 ### 6️⃣ Language Influence
-
-<img src="video/language.gif" width="600"/>
-
 **Description:**  
 The TaF-VLA enables the model to treat detailed prompts as actionable constraints, modulating force-sensitive interactions rather than following geometric trajectories alone, confirming a deeper alignment between language and physical behavior.
+
+<img src="video/language.gif" width="100%"/>
+
+
 
 
