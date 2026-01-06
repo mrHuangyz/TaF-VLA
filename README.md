@@ -2,12 +2,6 @@
 
 # TaF-VLA: Tactile-Force Alignment in Vision-Language-Action Models <br> for Force-aware Manipulation
 
-<!-- Add your actual links here -->
-[![Paper](https://img.shields.io/badge/Paper-ArXiv-B31B1B.svg)](https://arxiv.org/)
-[![Project Page](https://img.shields.io/badge/Project-Website-blue)](https://your-website.github.io)
-[![Video](https://img.shields.io/badge/Video-YouTube-red)](https://youtube.com)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
-
 <br>
 
 <img src="teaser.png" width="800">
