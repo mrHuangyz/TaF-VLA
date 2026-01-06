@@ -90,6 +90,7 @@ We introduce a comprehensive **force-aware manipulation dataset** covering diver
 
 #### Jelly Slicing
 <img src="video/jelly_compares.gif" width="800">
+
 <em>TaF-VLA maintains stable contact and force control when manipulating soft objects.</em>
 
 <br>
