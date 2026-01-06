@@ -83,6 +83,7 @@ We introduce a comprehensive **force-aware manipulation dataset** covering diver
 
 #### Tweezer Weight Pick
 <img src="video/weight_compares.gif" width="800">
+
 <em>Comparison of different methods on weighted object grasping tasks.</em>
 
 <br>
@@ -95,6 +96,7 @@ We introduce a comprehensive **force-aware manipulation dataset** covering diver
 
 #### Tube Insertion
 <img src="video/tube_compares.gif" width="800">
+
 <em>Our method achieves higher success rates and smoother force profiles than baseline approaches.</em>
 
 </div>
