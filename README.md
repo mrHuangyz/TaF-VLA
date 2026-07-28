@@ -10,7 +10,7 @@
 
 ---
 
-> 🎉 **Dataset Released!** Our real-robot TaF-Dataset — 10M+ synchronized tactile-force frames across 3,592 episodes — is now publicly available on HuggingFace: [huggingface.co/datasets/jiamig/taf-dataset](https://huggingface.co/datasets/jiamig/taf-dataset)
+> 🎉 **Dataset Released!** Our TaF-Dataset — 10M+ synchronized tactile-force frames across 3,592 episodes — is now publicly available on HuggingFace: [huggingface.co/datasets/jiamig/taf-dataset](https://huggingface.co/datasets/jiamig/taf-dataset)
 
 ---
 
