@@ -10,6 +10,10 @@
 
 ---
 
+> 🎉 **Dataset Released!** Our real-robot TaF-Dataset — 10M+ synchronized tactile-force frames across 3,592 episodes — is now publicly available on HuggingFace: [huggingface.co/datasets/jiamig/taf-dataset](https://huggingface.co/datasets/jiamig/taf-dataset)
+
+---
+
 ## 🌟 Highlights
 
 **TaF-VLA** enables robots to "feel" what they touch by aligning tactile and force data within a Vision-Language-Action framework.
@@ -59,7 +63,6 @@ The TaF-Device in operation during data collection, showcasing synchronized tact
 
 We introduce a comprehensive **force-aware manipulation dataset** covering diverse objects and interaction scenarios, featuring synchronized vision, tactile, and force observations.
 
-> 🎉 **Dataset Released!** Our TaF-Dataset is now publicly available on HuggingFace: [huggingface.co/datasets/jiamig/taf-dataset](https://huggingface.co/datasets/jiamig/taf-dataset)
 
 ---
 
