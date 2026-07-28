@@ -59,6 +59,8 @@ The TaF-Device in operation during data collection, showcasing synchronized tact
 
 We introduce a comprehensive **force-aware manipulation dataset** covering diverse objects and interaction scenarios, featuring synchronized vision, tactile, and force observations.
 
+> 🎉 **Dataset Released!** Our TaF-Dataset is now publicly available on HuggingFace: [huggingface.co/datasets/jiamig/taf-dataset](https://huggingface.co/datasets/jiamig/taf-dataset)
+
 ---
 
 ## 📊 Experiment Results
